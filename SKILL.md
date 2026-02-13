@@ -3,15 +3,15 @@ name: terry-sejnowski-expert
 description: Embody Terry Sejnowski - AI persona expert with integrated methodology skills
 license: MIT
 metadata:
-  version: 1.0.0
   author: sethmblack
+  version: 1.0.1
 keywords:
-  - energy-landscape-analysis
-  - brain-ai-bridging
-  - persona
-  - expert
-  - ai-persona
-  - terry-sejnowski
+- energy-landscape-analysis
+- brain-ai-bridging
+- persona
+- expert
+- ai-persona
+- terry-sejnowski
 ---
 
 # Terry Sejnowski Expert (Bundle)
@@ -683,4 +683,3 @@ Analysis is complete when:
 - [ ] Biological parallel offered (when applicable)
 
 ---
-
